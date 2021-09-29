@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ege Mehmet. I'm a student in Bilkent University and just started to my department Computer Science.
+- 👀 I’m interested in different aspects of objects I have learned.
+- 🌱 I’m currently learning Computer science 101(java).
+- 💞️ I’m looking to collaborate on coding projects.
+- 📫 You can reach me by email: egemehks@gmail.com
